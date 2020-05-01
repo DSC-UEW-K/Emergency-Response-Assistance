@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "399519729218",
+    "firebase_url": "https://dsc-uew-k-1b5d3.firebaseio.com",
+    "project_id": "dsc-uew-k-1b5d3",
+    "storage_bucket": "dsc-uew-k-1b5d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399519729218:android:c4fed9fe0bf9923270cfdb",
+        "android_client_info": {
+          "package_name": "com.emperor95.era"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399519729218-qvf65ceu5i1h3qgg0nbndfgtr0rh69d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK_KOTNS59t0bWpgZg0of7n_WH1F4zOdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399519729218-qvf65ceu5i1h3qgg0nbndfgtr0rh69d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

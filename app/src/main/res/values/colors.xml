@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#df251b</color>
+    <color name="colorPrimaryDark">#C81A11</color>
+    <color name="colorAccent">#eb9d20 </color>
+
+    <color name="speech_bubble_user">#FFC9D1</color>
+    <color name="speech_bubble_agent">#FFFFFF</color>
+    <color name="chat_text">#000</color>
+
+</resources>

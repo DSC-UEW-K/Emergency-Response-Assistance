@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ERA</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_home_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="hello_dashboard_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="hello_notifications_second">Hello HomeSecondFragment. Arg: %1$s</string>
+    <string name="title_tips">Health Tips</string>
+    <string name="title_dashboard">Interactions</string>
+    <string name="title_notifications">Emergency</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="loremTitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit</string>
+    <string name="loremDesc">Morbi in semper augue. Aliquam a finibus sapien, pharetra scelerisque turpis. Sed sit amet tellus id lectus lacinia suscipit. Suspendisse libero magna, fermentum gravida mi vel, rhoncus tristique magna.
+        Morbi ac malesuada risus.  </string>
+    <string name="default_notification_channel_id">DSC_ERA</string>
+    <string name="label_text">Tell us about your emergency</string>
+</resources>
