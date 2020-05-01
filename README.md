@@ -1,6 +1,7 @@
 # Emergency-Response-Assistance
 An android app that enables user to report emergency cases with their accurate locations with just a click of button. Users can also get up-to-date health tips and first-aid procedures published in real time.
 ## Usage Guide
+* Clone or download the project and open it with anddroid studio.
 **Adding firebase to the project**
 **Note: The firebase project must the same as the  
 Emergency Response Admin:Web tool**
