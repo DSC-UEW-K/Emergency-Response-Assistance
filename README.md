@@ -2,7 +2,8 @@
 An android app that enables user to report emergency cases with their accurate locations with just a click of button. Users can also get up-to-date health tips and first-aid procedures published in real time.
 ## Usage Guide
 **Adding firebase to the project**
-**The firebase project must the same as the Emergency Response Admin:Web tool**
+**Note: The firebase project must the same as the  
+Emergency Response Admin:Web tool**
 * Add an android package name app with the nickname Emergancy Response Assistant in your firebase console.
 * Add the packge name of the project to the firebase console.
 * Get the SHA1 key and paste it in the firebase console
